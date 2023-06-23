@@ -9,6 +9,4 @@ headers_for_detail = {
     "X-RapidAPI-Host": "hotels4.p.rapidapi.com"
 }
 
-API_token = '6115210911:AAFx8UFyqRITEJbgFKXTcJuNqyqlYYPLWt8'
-
-# Name of bot = @DmitryB_Attestation_bot
+API_token = 'insert your token'
